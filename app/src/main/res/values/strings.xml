@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">P12Spinner</string>
+    <string name="update">Update</string>
+    <string-array name="type">
+        <item>Even</item>
+        <item>Odd</item>
+    </string-array>
+
+    <string-array name="even_number">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="odd_number">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
+</resources>
